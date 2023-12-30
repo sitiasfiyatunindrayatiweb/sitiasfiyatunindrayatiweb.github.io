@@ -361,6 +361,7 @@ h6 {
   .hero-text {
       position: absolute;
       bottom: 0;
+      max-width: 100%;
   }
   .hero-text img {display: none;}
 }
