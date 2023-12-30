@@ -364,6 +364,7 @@ h6 {
       max-width: 100%;
   }
   .hero-text img {display: none;}
+  .force-center {text-align: center;}
 }
 
 #hero {
