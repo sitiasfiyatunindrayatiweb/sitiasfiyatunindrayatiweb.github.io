@@ -365,6 +365,16 @@ h6 {
   }
   .hero-text img {display: none;}
   .force-center {text-align: center;}
+
+  #hero {
+    background: url(../img/hero.png) 50% 70% no-repeat;
+    background-size: contain;
+  }
+}
+
+.youtube-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
 }
 
 #hero {
